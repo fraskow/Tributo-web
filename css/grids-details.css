@@ -1,0 +1,29 @@
+#container-principal{
+    display: grid;
+    grid-template-areas: "titulo titulo titulo titulo" 
+    "listas listas listas listas"
+    "listas listas listas listas"
+    "anec anec anec anec"
+    ;
+
+
+}
+#container-listas{
+    grid-area: listas;
+    
+}
+#container-titulo{
+    grid-area: titulo;
+}
+#anecdota{
+    grid-area: anec;
+    
+}
+
+#lista1{
+grid-area: l1;
+
+    }
+#lista2{
+grid-area: l2;
+    }
