@@ -40,3 +40,20 @@ article{
     margin-top:150px;
     margin-right: 50px;
 }
+
+header img{grid-area:img}
+header nav{grid-area: nav;}
+
+header{
+    display: grid;
+    grid-template-areas: 
+    'img img nav nav'
+    ;
+}
+
+header nav select{
+    margin-top: 50px;
+    width: 33%;
+    height: 25%;
+    font-size:x-large;
+}

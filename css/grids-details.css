@@ -31,7 +31,6 @@ main{
 #container-listas{
     display:grid;
     grid-template-areas: 'l1 l2';
-    padding:15px;
 }
 #container-titulo{
     margin-top: 100px;
