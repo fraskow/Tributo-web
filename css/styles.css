@@ -8,12 +8,12 @@ article img{
     padding-left: 32%;
     margin-top: 15px;
 }
-#banner{
+#container2 img{
     width: 360px;
     height: 1024px;
     position: relative;
-    padding-left: 18%;
-    margin-right: 5%;
+    padding-left: 15%;
+    margin-top: 50px;
 }
 #logo{
     padding-left: 2%;

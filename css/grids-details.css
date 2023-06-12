@@ -13,7 +13,7 @@
 
 main #disco{grid-area: disco;}
 main #container-principal{grid-area: cp;}
-main #banner{grid-area: banner}
+main #container2{grid-area: banner}
 
 main{
     display:grid;
@@ -31,7 +31,4 @@ main{
 #container-listas{
     display:grid;
     grid-template-areas: 'l1 l2';
-}
-#container-titulo{
-    margin-top: 100px;
 }
