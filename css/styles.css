@@ -1,7 +1,6 @@
-header, footer, p{
+header, footer, p, ol, h2{
     background-color: #FF6347;
 }
-
 
 article img{
     width: 360px;
@@ -9,7 +8,7 @@ article img{
     padding-left: 32%;
     margin-top: 15px;
 }
-aside img{
+#banner{
     width: 360px;
     height: 1024px;
     position: relative;
@@ -20,18 +19,24 @@ aside img{
     padding-left: 2%;
     padding-top: 2%;
 }
-p{
+article p{
     text-align: center;
     margin-left: 32%;
     width: 360px;
 }
+ol{
+    text-align: justify;
+    padding:45px;
+}
+h2{
+    text-align: center;
+    margin-top: 12%;
+}
 article{
     align-items: center;
 }
-#disco-paris {
-    width: 613px;
-    height: 583px;
-    padding-left: 32%;
-    margin-top: 15px;
-
+#disco{
+    margin-left: 150px;
+    margin-top:150px;
+    margin-right: 50px;
 }
