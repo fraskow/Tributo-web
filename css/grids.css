@@ -6,10 +6,10 @@
     grid-template-areas: 'cont1 cont1 cont1 cont1 cont1 cont1 cont1 cont2';
 }
 
-#disc70{grid-area: sev;}
+/* #disc70{grid-area: sev;}
 #disc80{grid-area: eig;}
 #disc90{grid-area: nin;}
-#discAct{grid-area: act;}
+#discAct{grid-area: act;} */
 
 #main #container1 section {
     display:grid;
